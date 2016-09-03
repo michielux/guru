@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : "Your Name"
 description              : "An amazing website."
 url                      : "http://clean-coyote.cloudvent.net" # the base hostname & protocol for your site e.g. 
-baseurl                  : "/" # the subpath of your site, e.g. "/blog"
+baseurl                  : "_site/" # the subpath of your site, e.g. "/blog"
 repository               : "michielux/guru" # GitHub username/repo-name e.g. 
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
